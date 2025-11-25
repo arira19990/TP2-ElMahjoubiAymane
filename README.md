@@ -108,7 +108,7 @@ def test_add():
 ## 📑 Rapport du TP
 
 Le rapport détaillé est disponible dans :\
-👉 **rapport_TP2.md**
+👉 **rapport_TP2.pdf**
 
 ------------------------------------------------------------------------
 
